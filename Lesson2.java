@@ -1,8 +1,7 @@
-
 package lesson2;
 
-import java.util.Arrays;
 import java.util.Scanner;
+
 //enum for exercise n4
 enum DAY {
         Monday,
@@ -13,7 +12,7 @@ enum DAY {
         Saturday,
         Sunday
 }
-//1 3 13
+
 public class Lesson2 {
     public static void main(String[] args) {
         
