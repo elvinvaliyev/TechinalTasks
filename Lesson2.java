@@ -1,3 +1,5 @@
+//Chapter 3: Java Basics (variables,data types,conditional statements) 
+
 package lesson2;
 
 import java.util.Scanner;
