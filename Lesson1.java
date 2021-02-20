@@ -83,23 +83,23 @@ public class Lesson1 {
 
 //6. Verilmiş mənfi olmayan tam ədədin faktorialını hesablaya
 
-//Scanner scan =new Scanner(System.in);
-//int n =scan.nextInt();
-//int s=1;
-//for(int i=n;i>1;i--){
-//    s=s*i;
-//}
-//        System.out.println(s);
+//          Scanner scan =new Scanner(System.in);
+//          int n =scan.nextInt();
+//          int s=1;
+//          for(int i=n;i>1;i--){
+//          s=s*i;
+//                  }
+//          System.out.println(s);
 //    
 
 
 
 //7. 1-dən 100-dək tək ədədlərin cəmini hesabyan
 
-//int S=0;
-//for(int i=1;i<100;i=i+2){
-//    S=S+i;
-//}
+//        int S=0;
+//        for(int i=1;i<100;i=i+2){
+//        S=S+i;
+//              }
 //        System.out.println(S);
 
 
@@ -108,13 +108,13 @@ public class Lesson1 {
 
 //        Scanner scan = new Scanner(System.in);
 //        int x = scan.nextInt();
-//
+//        int firstValueOfX=x;
 //        int count = 0;
 //        while (x != 0) {
 //            x = x / 10;
 //            count++;
 //        }
-//        System.out.println((int) (Math.pow(10, count-2)));
+//        System.out.println(firstValueOfX/(int)(Math.pow(10, count-1)));
 
 
     }
